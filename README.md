@@ -3,5 +3,4 @@ This project seeks to introduce a pooling concept for those users who would like
 Tranches of the $BINLOT coin will be sold at the price of the $BNB coin on the day
 Max Supply of 500 $BINLOT will be minted
 Funds from the sale of 500 $BINLOT will be used to participate in monthly Binance IEO Lottery
-Any IEO Lottery win coins will be sold within the first two hours of listing, $BNB will be topped back up and the actual winnings will be used to buy back $BINLOT coins listed on Memo.
-Initial concept will be live for 12 months, after this period project will be evaluated.
+Any IEO Lottery win coins will be sold within the first two hours of listing, $BNB will be topped back up and the actual winnings will be used to buy back $BINLOT coins listed on Memo up to a maximum price of $60 USD per coin.
