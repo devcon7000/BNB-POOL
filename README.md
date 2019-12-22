@@ -11,4 +11,4 @@ Max Supply of 500 $BINLOT will be minted
 Funds from the sale of 500 $BINLOT will be used to participate in monthly Binance IEO Lottery
 
 
-Any IEO Lottery win coins will be sold within the first two hours of listing, $BNB will be topped back up and the actual winnings will be used to buy back $BINLOT coins listed on Memo up to a maximum price of $60 USD per coin.
+Any IEO Lottery win coins will be sold within the first two hours of listing and  $BNB will be topped back up and the actual winnings will be used to buy back $BINLOT coins listed on Memo up to a maximum price of $60 USD per coin.
